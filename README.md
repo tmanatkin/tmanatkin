@@ -12,8 +12,9 @@ Full-stack software engineer designing and building web applications with modern
 ![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs)
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=nextdotjs)
-![Sass](https://img.shields.io/badge/Sass-222222?style=for-the-badge&logo=sass)
+![SCSS](https://img.shields.io/badge/SCSS-222222?style=for-the-badge&logo=sass)
 ![Tailwind](https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=tailwindcss)
+![Jest](https://img.shields.io/badge/Jest-222222?style=for-the-badge&logo=jest)
 
 ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjRkY5OTAwIiBjbGFzcz0iaWNvbiBpY29uLXRhYmxlciBpY29ucy10YWJsZXItZmlsbGVkIGljb24tdGFibGVyLWNsb3VkIiA%2BIDxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4gPHBhdGggZD0iTTEwLjA0IDQuMzA1YzIuMTk1IC0uNjY3IDQuNjE1IC0uMjI0IDYuMzYgMS4xNzZjMS4zODYgMS4xMDggMi4xODggMi42ODYgMi4yNTIgNC4zNGwuMDAzIC4yMTJsLjA5MSAuMDAzYzIuMyAuMTA3IDQuMTQzIDEuOTYxIDQuMjUgNC4yN2wuMDA0IC4yMTFjMCAyLjQwNyAtMS44ODUgNC4zNzIgLTQuMjU1IDQuNDgybC0uMjEgLjAwNWgtMTEuODc4bC0uMjIyIC0uMDA4Yy0yLjk0IC0uMTEgLTUuMzE3IC0yLjM5OSAtNS40MyAtNS4yNjNsLS4wMDUgLS4yMTZjMCAtMi43NDcgMi4wOCAtNS4wMSA0Ljc4NCAtNS40MTdsLjExNCAtLjAxNmwuMDcgLS4xODFjLjY2MyAtMS42MiAyLjA1NiAtMi45MDYgMy44MjkgLTMuNTE4bC4yNDQgLS4wOHoiIC8%2BIDwvc3ZnPg%3D%3D)
