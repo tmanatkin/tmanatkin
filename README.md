@@ -1,7 +1,5 @@
 # Tanner Atkin
 
-Full-stack software engineer designing and building web applications with modern frameworks.
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=html5)
